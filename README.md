@@ -21,3 +21,6 @@ Simple Form Validation: The JavaScript file contains basic validation logic for 
 
 ## homepage layout
 ![" homepage"](./homepage.png)
+
+## registration page
+![" registerpage"](./registerpage.png)

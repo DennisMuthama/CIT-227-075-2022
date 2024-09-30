@@ -24,3 +24,6 @@ Simple Form Validation: The JavaScript file contains basic validation logic for 
 
 ## registration page
 ![" registerpage"](./registerpage.png)
+
+## about page 
+!["about us page "](./aboutPage.png)
